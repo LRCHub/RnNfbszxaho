@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アウトサイダー・ブルース",
+  "base_artist": "cinema staff",
+  "createdAt": "2026-02-11T23:44:38.556578Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アウトサイダー・ブルース",
+      "artist": "cinema staff",
+      "has_synced": false,
+      "path": "select/pl_01_アウトサイダー・ブルース_cinema_staff.txt"
+    }
+  ]
+}
